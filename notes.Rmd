@@ -119,8 +119,9 @@ this lead?"*
   + [GPA](https://rstudio.cloud/spaces/27975/project/481628){target="_blank"}
 (`10/l10_gpa.Rmd`)
 + [Homework 5](https://rstudio.cloud/spaces/12013/project/300357){target="_blank"} Assigned (Due 2019-04-15 at 11:59pm)
+-->
 
-#### 2019-04-03 - Exam is due - no class
+#### 2019-10-09
 
 *Faith is for the future. Faith builds on the past but never longs to stay
 there. Faith trusts that God has great things in store for each of us and that
@@ -130,18 +131,15 @@ Christ truly is the “high priest of good things to come.”*
 2009](https://speeches.byu.edu/talks/jeffrey-r-holland_remember-lots-wife/){target="_blank"})
 
 + Announcements
-  + [Midterm Solutions](https://rstudio.cloud/spaces/12013/project/294240){target="_blank"}
+  + [Midterm Solutions](https://rstudio.cloud/spaces/27975/project/595376){target="_blank"}
   
   ![](exam1-grade-distribution.png)
   
 + R Moment: [plumber](https://www.rplumber.io/){target="_blank"}
-+ Bootstrap Continued
-  + [Bootstrap coverage](https://rstudio.cloud/spaces/27975/project/481628){target="_blank"}
-(`09/l09_bs_coverage.Rmd`)
-  + [Bootstrap troubles](https://rstudio.cloud/spaces/27975/project/481628){target="_blank"}
-(`09/l09_bs_troubles.Rmd`)
-+ [Homework 4](https://rstudio.cloud/spaces/12013/project/289762){target="_blank"} Questions
--->
++ Permutation Testing Continued
+  + [Faithful](https://rstudio.cloud/spaces/27975/project/481628){target="_blank"}
+(`10/l10_faithful.Rmd`)
++ [Homework 5](https://rstudio.cloud/spaces/27975/project/592748){target="_blank"} Questions
 
 #### 2019-10-07
 
